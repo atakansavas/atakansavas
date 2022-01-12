@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Software Developer @Kariyer.net</h1>
+<h1 align="center">Hi 👋, I'm Software Developer</h1>
 <h3 align="center">Software technologies, jokes, Geographic operations, smiling, travel.</h3>
 
-
-- 🔭 I’m currently working on **Kariyer.net**
-
-- 🌱 I’m currently learning **ReactJs, AWS**
 
 - 📫 How to reach me **a.savas@hotmail.com.tr**
 
