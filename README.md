@@ -9,6 +9,7 @@
 - 🌱 Learning about **Design Patterns**, **Javascript**
 - 📫 Reach me: **a.savas@hotmail.com.tr**
 - 🤚 My online [resume](https://atakansavas.github.io/)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 🔗 Feel free connect [with me](https://www.linkedin.com/in/hiata/)
+- ⚡️ Fun fact: I'm a fan of GIS, Travel.
 
 [![Spotify](https://novatorem-atakansavas.vercel.app/api/spotify)](https://open.spotify.com/user/11128743162 )
