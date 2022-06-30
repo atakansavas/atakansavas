@@ -2,11 +2,11 @@
 
 #### I'm a Full-Stack Developer working in Istanbul, Turkey. 🇹🇷
 
-- 🏢 Currently working at **Kariyer.Net**
-- 🔍 Currently searching **CQRS, Mediatr, Openlayers, NextJs**
-- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.cs`, `.yaml`
+- 🏢 Currently working at **Debite.io**
+- 🔍 Currently searching **NextJs, Typescript**
+- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.cs`
 - 🪀 [Youtube channel](https://www.youtube.com/channel/UCwVgOUuEa0vHa2tPyLPtl1A)
-- 🌱 Learning about **Design Patterns**, **Javascript**
+- 🌱 Learning about **Clean code**, **Javascript**
 - 📫 Reach me: **a.savas@hotmail.com.tr**
 - 🤚 My online [resume](https://atakansavas.github.io/)
 - There are some [articles](https://medium.com/@atakansava/) i wrote
