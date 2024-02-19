@@ -5,7 +5,6 @@
 - 🏢 Currently working at **Debite.io**
 - 🔍 Currently searching **NextJs, Typescript**
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.cs`
-- 🪀 [Youtube channel](https://www.youtube.com/channel/UCwVgOUuEa0vHa2tPyLPtl1A)
 - 🌱 Learning about **Clean code**, **Javascript**
 - 📫 Reach me: **a.savas@hotmail.com.tr**
 - 🤚 My online [resume](https://atakansavas.github.io/)
