@@ -7,7 +7,7 @@
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.cs`
 - 🌱 Learning about **Clean code**, **Javascript**
 - 📫 Reach me: **a.savas@hotmail.com.tr**
-- 🤚 My online [resume](https://atakansavas.github.io/)
+- 🤚 My online [resume](https://atakansavas.framer.website/)
 - There are some [articles](https://medium.com/@atakansava/) i wrote
 - 🔗 Feel free to connect [with me](https://www.linkedin.com/in/hiata/)
 - ⚡️ Fun fact: I'm a fan of GIS, Travel.
