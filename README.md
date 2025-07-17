@@ -1,15 +1,22 @@
-### Ola. 👋
+# Atakan 👋
 
-#### I'm a Full-Stack Developer working in Istanbul, Turkey. 🇹🇷
+**Full-Stack Dev** from Mugla building cool stuff **Alone**
 
-- 🏢 Currently working at **Debite.io**
-- 🔍 Currently searching **NextJs, Typescript**
-- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.cs`
-- 🌱 Learning about **Clean code**, **Javascript**
-- 📫 Reach me: **a.savas@hotmail.com.tr**
-- 🤚 My online [resume](https://atakansavas.framer.website/)
-- There are some [articles](https://medium.com/@atakansava/) i wrote
-- 🔗 Feel free to connect [with me](https://www.linkedin.com/in/hiata/)
-- ⚡️ Fun fact: I'm a fan of GIS, Travel.
+## What I Do
+Code with **JS/TS, React, Next.js, React Native** | Build **AI agents** | Chase **sunsets on motorbikes** 🏍️
 
-[![Spotify](https://novatorem-atakansavas.vercel.app/api/spotify)](https://open.spotify.com/user/11128743162 )
+## Side Quests
+- 🎵 AI music production
+- 🗺️ Finding hidden places around the world
+- 🤖 Automation everything
+- ☕ Remote work from anywhere
+
+**Currently obsessing over:** Clean code & TypeScript wizardry
+
+---
+
+**Find me:** [benatakan.com](https://benatakan.com) | [LinkedIn](https://www.linkedin.com/in/hiata/) | [Medium](https://medium.com/@atakansava/)
+
+[![Spotify](https://novatorem-atakansavas.vercel.app/api/spotify)](https://open.spotify.com/user/11128743162)
+
+*Building the future, one commit at a time.*
